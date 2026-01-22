@@ -7,7 +7,7 @@ across neighborhoods and bedroom counts.
 
 ## Dashboard
 🔗 **Live Tableau Dashboard:**  
-https://public.tableau.com/your-link-here
+https://public.tableau.com/app/profile/matt.davies6123/viz/AirBnBPricesDashboardforSeattle/Dashboard1?publish=yes
 
 ## Data
 - Source: Seattle Airbnb Open Data (Kaggle)
